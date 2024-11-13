@@ -1,0 +1,82 @@
+[
+  {
+    "CountryCode": "234",
+    "Name": "Nigeria",
+    "CountryIso": "NG",
+    "CountryDetails": [
+      {
+        "CountryId": 1,
+        "Operator": "Airtel Nigeria",
+        "OperatorCode": "ANG"
+      },
+      {
+        "CountryId": 1,
+        "Operator": "MTN Nigeria",
+        "OperatorCode": "MTN NG"
+      },
+      {
+        "ICountryId": 1,
+        "Operator": "9 Mobile Nigeria",
+        "OperatorCode": "ETN"
+      },
+      {
+        "CountryId": 1,
+        "Operator": "Globacom Nigeria",
+        "OperatorCode": "GLO NG"
+      }
+    ]
+
+
+  },
+  {
+    "CountryCode": "233",
+    "Name": "Ghana",
+    "CountryIso": "GH",
+    "CountryDetails": [
+      {
+        "CountryId": 2,
+        "Operator": "Vodafone Ghana",
+        "OperatorCode": "Vodafone GH"
+      },
+      {
+        "CountryId": 2,
+        "Operator": "MTN Ghana",
+        "OperatorCode": "MTN Ghana"
+      },
+      {
+        "CountryId": 2,
+        "Operator": "Tigo Ghana",
+        "OperatorCode": "Tigo Ghana"
+      }
+    ]
+  },
+  {
+    "CountryCode": "229",
+    "Name": "Benin Republic",
+    "CountryIso": "BN",
+    "CountryDetails": [
+      {
+        "CountryId": 3,
+        "Operator": "MTN Benin",
+        "OperatorCode": "MTN Benin"
+      },
+      {
+        "CountryId": 3,
+        "Operator": "Moov Benin",
+        "OperatorCode": "Moov Benin"
+      }
+    ]
+  },
+  {
+    "CountryCode": "225",
+    "Name": "Côte d'Ivoire",
+    "CountryIso": "CIV",
+    "CountryDetails": [
+      {
+        "CountryId": 4,
+        "Operator": "MTN Côte d'Ivoire",
+        "OperatorCode": "MTN CIV"
+      }
+    ]
+  }
+]

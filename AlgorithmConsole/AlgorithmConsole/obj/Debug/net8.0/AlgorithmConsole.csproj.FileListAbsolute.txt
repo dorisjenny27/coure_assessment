@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\bin\Debug\net8.0\AlgorithmConsole.exe
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\bin\Debug\net8.0\AlgorithmConsole.deps.json
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\bin\Debug\net8.0\AlgorithmConsole.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\bin\Debug\net8.0\AlgorithmConsole.dll
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\bin\Debug\net8.0\AlgorithmConsole.pdb
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\AlgorithmConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\AlgorithmConsole.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\AlgorithmConsole.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\AlgorithmConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\AlgorithmConsole.dll
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\refint\AlgorithmConsole.dll
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\AlgorithmConsole.pdb
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\AlgorithmConsole.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\INTERVIEW TASK\coure_assessment\AlgorithmConsole\AlgorithmConsole\obj\Debug\net8.0\ref\AlgorithmConsole.dll
